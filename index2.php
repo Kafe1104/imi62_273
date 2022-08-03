@@ -1,4 +1,7 @@
 <?php
-echo "Hello SIRAPATSORN AKSORNPUKDI";
-echo "ID : 64113483";
+$name = "SIRAPATSORN AKSORNPUKDI";
+$sid = "64113483";
+echo "Hello ".$name;
+echo "ID : ".$sid;
+
 ?>
